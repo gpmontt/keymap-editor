@@ -114,6 +114,11 @@
     "params": ["layer"]
   },
   {
+    "code": "&studio_unlock",
+    "name": "ZMK Studio unlock",
+    "params": []
+  },
+  {
     "code": "&to",
     "name": "To Layer",
     "params": ["layer"]
